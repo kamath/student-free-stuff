@@ -7,6 +7,7 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [GitHub Student Pack](https://education.github.com/pack) - a bunch of discounted/free stuff you can get due to company tie-ups with GitHub. Get AWS creds, DigitalOcean creds, Stripe discounts, a free .me domain, and lessons from Udacity.
 * [Microsoft Imagine](https://imagine.microsoft.com/en-us/catalog) - discounted/free .NET-based technologies like Visual Studio and SQL Server
 * [On The Hub](http://onthehub.com/) - search for your school and find software that your school sponsors, often Windows 10 downloads, VMWare, etc.
+* [Namecheap](https://nc.me) - get a free .me domain for a year, in addition to heavily discounted other domains. Also comes with free email hosting
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
