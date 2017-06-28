@@ -3,6 +3,7 @@
 ## For all institutions
 You can get all of these if you're a student. It helps to have a .edu email address
 * [JetBrains](https://www.jetbrains.com/student/) - a huge set of dev tools for most languages/platforms like Java, C#, Obj-C, PHP, Ruby, Python, and Ruby. They have really nice and easy-to-use IDEs like PyCharm and WebStorm that would normally cost a lot of money
+* [Autodesk](https://www.autodesk.com/education/free-software/all) - A set of modeling utilities for engineering students.
 * [GitHub Student Pack](https://education.github.com/pack) - a bunch of discounted/free stuff you can get due to company tie-ups with GitHub. Get AWS creds, DigitalOcean creds, Stripe discounts, a free .me domain, and lessons from Udacity.
 * [Microsoft Imagine](https://imagine.microsoft.com/en-us/catalog) - discounted/free .NET-based technologies like Visual Studio and SQL Server
 * [On The Hub](http://onthehub.com/) - search for your school and find software that your school sponsors, often Windows 10 downloads, VMWare, etc.
