@@ -8,6 +8,8 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [Microsoft Imagine](https://imagine.microsoft.com/en-us/catalog) - discounted/free .NET-based technologies like Visual Studio and SQL Server
 * [On The Hub](http://onthehub.com/) - search for your school and find software that your school sponsors, often Windows 10 downloads, VMWare, etc.
 * [Namecheap](https://nc.me) - get a free .me domain for a year, in addition to heavily discounted other domains. Also comes with free email hosting
+* [Google Cloud for Education](https://cloud.google.com/edu/) - get access to google cloud and credits 
+* [Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?nodeId=201133690) - get discounts on Amazon Prime
 * [CATIA](https://academy.3ds.com/en/software/catia-v5-student-edition) - CATIA Student Edition
 
 ## For most institutions
