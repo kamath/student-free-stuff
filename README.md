@@ -9,6 +9,9 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [On The Hub](http://onthehub.com/) - search for your school and find software that your school sponsors, often Windows 10 downloads, VMWare, etc.
 * [Namecheap](https://nc.me) - get a free .me domain for a year, in addition to heavily discounted other domains. Also comes with free email hosting
 * [CATIA](https://academy.3ds.com/en/software/catia-v5-student-edition) - CATIA Student Edition
+* [Spotify](https://www.spotify.com/us/student/) - get discounts on Spotify
+* [Apple Products](https://www.apple.com/us-hed/shop) - get discounts on apple products upto $300
+
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
@@ -19,5 +22,5 @@ Your school has probably told you about these already, but here goes anyway
 
 ## For a few institutions
 Just a few schools have these
-* Free Adobe Creative Cloud - some schools like UC Berkeley and Clemson have tie-ups with Adobe and can provide free Creative Cloud for their students.
+* [Free Adobe Creative Cloud](https://www.adobe.com/in/creativecloud/buy/students.html) - some schools like UC Berkeley and Clemson have tie-ups with Adobe and can provide free Creative Cloud for their students.
 * [Free Atlassian tools](https://www.atlassian.com/classroom) - some schools offer popular Atlassian tools for free. They help with code reviews, bug tracking and other such things. 
