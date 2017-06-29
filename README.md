@@ -11,6 +11,7 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [Google Cloud for Education](https://cloud.google.com/edu/) - get access to google cloud and credits 
 * [Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?nodeId=201133690) - get discounts on Amazon Prime
 * [CATIA](https://academy.3ds.com/en/software/catia-v5-student-edition) - CATIA Student Edition
+* [DotTech Domains](http://get.tech/) - Get a free .tech domain for a year with free hosting.
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
