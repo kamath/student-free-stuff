@@ -11,8 +11,10 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [Google Cloud for Education](https://cloud.google.com/edu/) - get access to google cloud and credits 
 * [Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?nodeId=201133690) - get discounts on Amazon Prime
 * [CATIA](https://academy.3ds.com/en/software/catia-v5-student-edition) - CATIA Student Edition
+* [Spotify](https://www.spotify.com/us/student/) - get discounts on Spotify
+* [Apple Products](https://www.apple.com/us-hed/shop) - get discounts on apple products upto $300
 * [DotTech Domains](http://get.tech/) - Get a free .tech domain for a year with free hosting.
-* [Prezi for Students](http://prezi.com/pricing/edu/) - Get a free version of Prezi to create unlimited presentations under their student plan. Edu id - required for sign up. They also have an Edu Plus plan starting from 5 dollars per month. 
+* [Prezi for Students](http://prezi.com/pricing/edu/) - Get a free version of Prezi to create unlimited presentations under their student plan. 
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
@@ -24,6 +26,6 @@ Your school has probably told you about these already, but here goes anyway
 
 ## For a few institutions
 Just a few schools have these
-* Free Adobe Creative Cloud - some schools like UC Berkeley and Clemson have tie-ups with Adobe and can provide free Creative Cloud for their students.
+* [Free Adobe Creative Cloud](https://www.adobe.com/in/creativecloud/buy/students.html) - some schools like UC Berkeley and Clemson have tie-ups with Adobe and can provide free Creative Cloud for their students.
 * [Free Atlassian tools](https://www.atlassian.com/classroom) - some schools offer popular Atlassian tools for free. They help with code reviews, bug tracking and other such things. 
 * [Free Lynda Subscription](https://www.lynda.com/) - Sign in with organization email - provide details. Check with your school whether they have a subscription. Lynda is an amazing portal for online courses with a wide range of choices suited to meet every individual's needs. 
