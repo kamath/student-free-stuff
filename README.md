@@ -22,7 +22,7 @@ Your school has probably told you about these already, but here goes anyway
 * MATLAB - a lot of schools, especially engineering colleges, sponsor a university-wide MATLAB license, allowing you to save thousands upon thousands of dollars
 * Microsoft Office - most schools sponsor free Microsoft Office for all of their students.
 * Google Drive - if your school has an educational Google Apps account, you have infinite storage (technically like 10 TB) on your account. You can save everything to your heart's content on that account.
-* [Grammarly] (https://www.grammarly.com/edu/signup) - Grammarly is an online grammar and spelling checker that improves communication by helping users find and correct writing mistakes. Grammarly offers education plans, where one has to signup using their organization. 
+* [Grammarly](https://www.grammarly.com/edu/signup) - Grammarly is an online grammar and spelling checker that improves communication by helping users find and correct writing mistakes. Grammarly offers education plans, where one has to signup using their organization. 
 
 ## For a few institutions
 Just a few schools have these
