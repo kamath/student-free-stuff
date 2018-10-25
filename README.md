@@ -13,12 +13,12 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [CATIA](https://academy.3ds.com/en/software/catia-v5-student-edition) - CATIA Student Edition
 * [Spotify](https://www.spotify.com/us/student/) - get discounts on Spotify
 * [Apple Products](https://www.apple.com/us-hed/shop) - get discounts on apple products upto $300
-* [DotTech Domains](http://get.tech/) - Get a free .tech domain for a year with free hosting.
+* [DotTech Domains](https://get.tech/domain-offers) - Get a free .tech domain for a year with free hosting. (Warning: be careful for high domain renewal pricing!)
 * [Prezi for Students](http://prezi.com/pricing/edu/) - Get a free version of Prezi to create unlimited presentations under their student plan. 
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
-* IEEE Student Membership - A lot of schools give you IEEE memberships, allowing you to view some of the nation's best STEM research work for free, when it would otherwise cost you about $50 per paper.
+* IEEE Student Membership - A lot of schools give you IEEE memberships, allowing you to view some of the nation's best STEM research work for free, when it would otherwise cost you about $50 per paper. If you are on campus, you probably can view IEEE journals/papers without logging in automatically.
 * MATLAB - a lot of schools, especially engineering colleges, sponsor a university-wide MATLAB license, allowing you to save thousands upon thousands of dollars
 * Microsoft Office - most schools sponsor free Microsoft Office for all of their students.
 * Google Drive - if your school has an educational Google Apps account, you have infinite storage (technically like 10 TB) on your account. You can save everything to your heart's content on that account.
@@ -28,4 +28,4 @@ Your school has probably told you about these already, but here goes anyway
 Just a few schools have these
 * [Free Adobe Creative Cloud](https://www.adobe.com/in/creativecloud/buy/students.html) - some schools like UC Berkeley and Clemson have tie-ups with Adobe and can provide free Creative Cloud for their students.
 * [Free Atlassian tools](https://www.atlassian.com/classroom) - some schools offer popular Atlassian tools for free. They help with code reviews, bug tracking and other such things. 
-* [Free Lynda Subscription](https://www.lynda.com/) - Sign in with organization email - provide details. Check with your school whether they have a subscription. Lynda is an amazing portal for online courses with a wide range of choices suited to meet every individual's needs. 
+* [Free Lynda Subscription](https://www.lynda.com/) - Sign in with organization email - provide details. Check with your school whether they have a subscription. Lynda is an amazing portal for online courses with a wide range of choices suited to meet every individual's needs. Your library might possibly have access to this too!
