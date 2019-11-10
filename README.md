@@ -29,3 +29,8 @@ Just a few schools have these
 * [Free Adobe Creative Cloud](https://www.adobe.com/in/creativecloud/buy/students.html) - some schools like UC Berkeley and Clemson have tie-ups with Adobe and can provide free Creative Cloud for their students.
 * [Free Atlassian tools](https://www.atlassian.com/classroom) - some schools offer popular Atlassian tools for free. They help with code reviews, bug tracking and other such things. 
 * [Free Lynda Subscription](https://www.lynda.com/) - Sign in with organization email - provide details. Check with your school whether they have a subscription. Lynda is an amazing portal for online courses with a wide range of choices suited to meet every individual's needs. 
+
+## Additional Resources
+* [WebEmployed's List of 20 Free Things](https://www.webemployed.com/free-stuff-with-student-email-account/) - A curated list of 20 software and services students can subscribe to for free.
+* [SaveTheStudent's List of Free Software](https://www.savethestudent.org/save-money/free-software-for-students.html) - Another  resourceful list of free software for students.
+
