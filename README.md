@@ -15,6 +15,7 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [Apple Products](https://www.apple.com/us-hed/shop) - get discounts on apple products upto $300
 * [DotTech Domains](http://get.tech/) - Get a free .tech domain for a year with free hosting.
 * [Prezi for Students](http://prezi.com/pricing/edu/) - Get a free version of Prezi to create unlimited presentations under their student plan. 
+* [Notion](https://www.notion.so/students) - Notion is a notes taking application with a web and desktop app. The pro version is free for all students. Also supports code snippets (in plenty of languages) and github gists. If you're running Linux, check out [Lotion](https://github.com/puneetsl/lotion) to run it on desktop ([issue #1](https://github.com/puneetsl/lotion/issues/1) for offline capabilities).
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
@@ -23,6 +24,7 @@ Your school has probably told you about these already, but here goes anyway
 * Microsoft Office - most schools sponsor free Microsoft Office for all of their students.
 * Google Drive - if your school has an educational Google Apps account, you have infinite storage (technically like 10 TB) on your account. You can save everything to your heart's content on that account.
 * [Grammarly](https://www.grammarly.com/edu/signup) - Grammarly is an online grammar and spelling checker that improves communication by helping users find and correct writing mistakes. Grammarly offers education plans, where one has to signup using their organization. 
+
 
 ## For a few institutions
 Just a few schools have these
