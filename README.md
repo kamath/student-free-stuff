@@ -25,7 +25,6 @@ Your school has probably told you about these already, but here goes anyway
 * Google Drive - if your school has an educational Google Apps account, you have infinite storage (technically like 10 TB) on your account. You can save everything to your heart's content on that account.
 * [Grammarly](https://www.grammarly.com/edu/signup) - Grammarly is an online grammar and spelling checker that improves communication by helping users find and correct writing mistakes. Grammarly offers education plans, where one has to signup using their organization. 
 
-
 ## For a few institutions
 Just a few schools have these
 * [Free Adobe Creative Cloud](https://www.adobe.com/in/creativecloud/buy/students.html) - some schools like UC Berkeley and Clemson have tie-ups with Adobe and can provide free Creative Cloud for their students.
