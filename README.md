@@ -15,6 +15,8 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [Apple Products](https://www.apple.com/us-hed/shop) - get discounts on apple products upto $300
 * [DotTech Domains](http://get.tech/) - Get a free .tech domain for a year with free hosting.
 * [Prezi for Students](http://prezi.com/pricing/edu/) - Get a free version of Prezi to create unlimited presentations under their student plan. 
+* [Notion](https://www.notion.so/students) - Notion is a notes taking application with a web and desktop app. The pro version is free for all students. Also supports code snippets (in plenty of languages) and github gists. If you're running Linux, check out [Lotion](https://github.com/puneetsl/lotion) to run it on desktop ([issue #1](https://github.com/puneetsl/lotion/issues/1) for offline capabilities).
+* [Intel Tools](https://software.intel.com/content/www/us/en/develop/articles/qualify-for-free-software.html#student) - Students have free access to the select Intel® Software Development Products. 
 
 ## For most institutions
 Your school has probably told you about these already, but here goes anyway
