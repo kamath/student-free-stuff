@@ -35,6 +35,4 @@ Just a few schools have these
 ## Additional Resources
 * [WebEmployed's List of 20 Free Things](https://www.webemployed.com/free-stuff-with-student-email-account/) - A curated list of 20 software and services students can subscribe to for free.
 * [SaveTheStudent's List of Free Software](https://www.savethestudent.org/save-money/free-software-for-students.html) - Another  resourceful list of free software for students.
-* [Heyform](https://heyform.net) - Drag and drop online form builder. The free tier lets studnets create unlimited forms. Ideal for surverys, questionnaires, etc. 
-
-
+* [Heyform](https://heyform.net) - Drag and drop online form builder. The free tier lets students create unlimited forms. Ideal for surverys, questionnaires, etc. 
