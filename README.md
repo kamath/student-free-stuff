@@ -14,6 +14,7 @@ You can get all of these if you're a student. It helps to have a .edu email addr
 * [CATIA](https://academy.3ds.com/en/software/catia-v5-student-edition) - CATIA Student Edition
 * [Spotify](https://www.spotify.com/us/student/) - get discounts on Spotify
 * [Apple Products](https://www.apple.com/us-hed/shop) - get discounts on apple products upto $300
+* [Samsung Products](https://www.samsung.com/us/shop/offer-program/education/) - Get a lot of discounts on Samsung Products
 * [DotTech Domains](http://get.tech/) - Get a free .tech domain for a year with free hosting.
 * [Prezi for Students](http://prezi.com/pricing/edu/) - Get a free version of Prezi to create unlimited presentations under their student plan. 
 * [Taskade](https://www.taskade.com/) - Free real-time organization and collaboration tool for getting things done. Get additional 50% off organizational discounts for educational use and students with the discount code students50.
